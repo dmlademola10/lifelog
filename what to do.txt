@@ -1,0 +1,24 @@
+Edit date of event default will be gotten from date of event and not today XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+delete image removes it from edit page immediately XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Next/prev page removes restore button and parent and edit/new event tab(Not neccessary anymore)
+When pages(trash/home) becomes empty, refresh automatically
+searchbox for both home and trash
+number of rec user has uploaded
+javscript updating after ajax with raw text and make sure &amp; from user doesn' become '&'(Not neccessary anymore)
+user can write sorry, an error occured and scatter the page, ur js depends on soory an error occurred or no record found
+calculate space used by trash, media nd home separately
+test for visibility of description box counter XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+When user change image, it should change immediately in edit(delete) src
+editing a record wit new lines has a problem after reloadin page XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+closing fscreen must stop videos playing
+edit record shows undefined for video files XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+display confirm box b4 deleting permanantly
+when query select doesn't bring any result or does not exist, make sure to destroy session, log error, and go back to login page
+check date of entry b4 alert user of duplicated record
+make msg_box display flex to allow vertical align to be center
+use json to send response from ajax requests
+on firefox, edit date of event does not work after "event can't have happened in the future" error
+javascript edit date(month) isn't working properly
+
+
+equinos

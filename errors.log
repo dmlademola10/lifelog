@@ -1,0 +1,485 @@
+[13-Jul-2022 22:33:03 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:04 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:05 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:06 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:07 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:08 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:09 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:10 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:11 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:12 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:13 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:14 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:15 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:20 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:20 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:20 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[13-Jul-2022 22:33:20 Africa/Lagos] PHP Warning:  Use of undefined constant retur - assumed 'retur' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 10
+[14-Jul-2022 20:24:03 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D06CEDCF55D82091899962D06CEDCF584956463759.mp4): Permission denied in C:\xampp\htdocs\Journal\includes\edit_event_script.php on line 124
+[14-Jul-2022 20:24:05 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D06CF2861C170858946462D06CF2861EC424840040.mp4): Permission denied in C:\xampp\htdocs\Journal\includes\edit_event_script.php on line 124
+[14-Jul-2022 20:30:57 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D06D5BE887792523542462D06D5BE889D321452762.mp4): Permission denied in C:\xampp\htdocs\Journal\includes\edit_event_script.php on line 124
+[14-Jul-2022 20:32:14 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D06EF550B9937043676562D06EF550BAB006622860.mp4): Permission denied in C:\xampp\htdocs\Journal\includes\edit_event_script.php on line 124
+[14-Jul-2022 20:42:31 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:42:32 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:43:33 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:43:34 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:44:03 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:44:04 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:48:11 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:48:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:48:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[14-Jul-2022 20:48:28 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:16:00 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:01 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:02 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:02 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:03 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:03 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:04 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:04 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:04 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:04 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:05 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:05 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:05 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:05 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:06 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:06 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:06 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:06 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:07 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:07 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:07 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:07 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:07 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:08 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:08 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:08 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:08 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:09 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:09 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:09 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:11 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:11 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:11 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:11 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:13 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:13 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:13 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:13 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:14 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:14 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:16 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:16 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:16 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:17 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:17 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:17 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:18 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:18 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:18 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:18 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:28 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:28 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:28 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:28 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:29 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:29 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:29 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:29 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:29 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:30 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:30 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:30 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:30 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:31 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:31 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:31 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:31 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:32 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:32 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:32 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:32 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:32 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:33 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:33 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:33 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:34 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:34 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:34 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:35 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:35 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:35 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:35 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:36 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:36 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:36 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:36 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:36 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:37 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:37 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:37 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:37 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:38 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:38 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:38 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:38 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:39 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:39 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:39 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:39 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:39 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:40 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:40 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:16:40 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:14 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:26 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:27 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:18:29 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\upload_prog_script.php on line 37
+[15-Jul-2022 09:36:57 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:02 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:03 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:04 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:05 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:05 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:05 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:06 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:06 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:06 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:07 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:07 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:08 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:08 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:08 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 09:37:09 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:11 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:13 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:14 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:17 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:17 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:18 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:39 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:40 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:40 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:40 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:41 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:41 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:42 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:42 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:42 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:42 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:43 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:43 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:44 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:44 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:44 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:45 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:45 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:45 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:46 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:46 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:46 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:47 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:47 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:47 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:48 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:48 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:48 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:49 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:49 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:50 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:51 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:52 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:53 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:53 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:54 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:54 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:55 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:55 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:56 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:57 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:58 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:58 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:58 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:37:59 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:38:00 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:38:01 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 36
+[15-Jul-2022 09:38:27 Africa/Lagos] PHP Notice:  Undefined index: field in C:\xampp\htdocs\Journal\includes\upload_prog_script.php on line 25
+[15-Jul-2022 18:12:05 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:06 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:07 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:08 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:09 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:10 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:11 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:12 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:13 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:14 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:15 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:16 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:17 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:18 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:19 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:20 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:21 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:22 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:23 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:24 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:12:25 Africa/Lagos] PHP Notice:  Undefined variable: field in C:\xampp\htdocs\Lifelog\includes\upload_prog_script.php on line 36
+[15-Jul-2022 18:20:49 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D1A1DBD566874166147062D1A1DBD568B817930039.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 139
+[15-Jul-2022 18:20:49 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D1A1DC9D21D20042154962D1A1DC9D23F483153464.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 139
+[15-Jul-2022 18:20:49 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D1A1DE143D651785267562D1A1DE143F6407752198.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 139
+[15-Jul-2022 18:32:27 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D1A210E7E8D78237770262D1A210E7EAB239735994.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 139
+[15-Jul-2022 18:45:07 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D1A78890EC284821645962D1A78890EE7810795859.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 139
+[16-Jul-2022 14:00:18 Africa/Lagos] PHP Notice:  Undefined variable: row in C:\xampp\htdocs\Lifelog\main.php on line 20
+[16-Jul-2022 14:00:18 Africa/Lagos] PHP Notice:  Undefined variable: row in C:\xampp\htdocs\Lifelog\main.php on line 29
+[19-Jul-2022 19:46:59 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D6FC018264A06698972462D6FC0182665337955273.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 139
+[19-Jul-2022 19:46:59 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D6FC01C6D6A75030295962D6FC01C6D8D905843825.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 139
+[19-Jul-2022 20:28:49 Africa/Lagos] PHP Recoverable fatal error:  Object of class Output could not be converted to string in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 133
+[19-Jul-2022 20:31:12 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D6FE607B24418557325262D6FE607B265896432015.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:31:12 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D6FE619477F20156471762D6FE6194794860386336.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:31:12 Africa/Lagos] PHP Notice:  Undefined variable: msg in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 207
+[19-Jul-2022 20:31:21 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D6FE607B24418557325262D6FE607B265896432015.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:31:21 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D6FE619477F20156471762D6FE6194794860386336.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:31:21 Africa/Lagos] PHP Notice:  Undefined variable: msg in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 207
+[19-Jul-2022 20:39:17 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D7083D8433394830908962D7083D8434E119955614.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:55:26 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D70BA580E7B39584132962D70BA580E9A065016922.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:55:26 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D70BA6CEDD880570419862D70BA6CEDF2691145960.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:55:26 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D70BA8782ED47849356562D70BA87831C060445117.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:57:25 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D70C7AB18CA22576225062D70C7AB18EC521552091.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[19-Jul-2022 20:57:25 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D70C7ABF11014862641962D70C7ABF13C672993108.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[03-Aug-2022 09:52:42 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D78C105827166993330662D78C105829A819968668.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[03-Aug-2022 09:52:42 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D78C12860C457609331462D78C12860F6712900838.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 145
+[03-Aug-2022 09:53:56 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D78C105827166993330662D78C105829A819968668.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 09:53:56 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62D78C12860C457609331462D78C12860F6712900838.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 09:57:54 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62EA37E2DDA2562470129362EA37E2DDA36077574858.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 10:21:16 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62EA37E46C3A061538324562EA37E46C3B6178264211.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 10:21:16 Africa/Lagos] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 12:33:56 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4EF6B866847230435862EA4EF6B8679444344041.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 147
+[03-Aug-2022 12:33:57 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4EF71940336543980762EA4EF719412121772820.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 147
+[03-Aug-2022 12:36:14 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F70DC33159277595962EA4F70DC343539744356.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 12:36:14 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F7148A1405411111562EA4F7148A2F052991469.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 12:38:04 Europe/Berlin] PHP Warning:  Undefined variable $file in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 144
+[03-Aug-2022 12:38:04 Europe/Berlin] PHP Warning:  Undefined variable $file in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 144
+[03-Aug-2022 12:38:52 Europe/Berlin] PHP Warning:  Undefined variable $file in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 144
+[03-Aug-2022 12:38:52 Europe/Berlin] PHP Warning:  Undefined variable $file in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 144
+[03-Aug-2022 12:39:43 Europe/Berlin] PHP Warning:  Undefined variable $file in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 144
+[03-Aug-2022 12:39:43 Europe/Berlin] PHP Warning:  Undefined variable $file in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 144
+[03-Aug-2022 12:41:19 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F70DC33159277595962EA4F70DC343539744356.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[03-Aug-2022 12:41:19 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F7148A1405411111562EA4F7148A2F052991469.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[04-Aug-2022 06:49:04 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F70DC33159277595962EA4F70DC343539744356.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[04-Aug-2022 06:49:04 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F7148A1405411111562EA4F7148A2F052991469.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[04-Aug-2022 06:50:15 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F70DC33159277595962EA4F70DC343539744356.mp4): Permission denied in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[04-Aug-2022 06:50:15 Europe/Berlin] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F7148A1405411111562EA4F7148A2F052991469.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[04-Aug-2022 05:51:28 Africa/Lagos] PHP Warning:  unlink(../uploads/MJ_VID_62EA4F7148A1405411111562EA4F7148A2F052991469.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\includes\edit_event_script.php on line 146
+[05-Aug-2022 07:50:16 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EB9B2C5C24244155578562EB9B2C5C261059682757.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[05-Aug-2022 07:50:16 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EB9B2DAACE141943653662EB9B2DAAD06904521729.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[05-Aug-2022 07:50:16 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EB9B2E0830B18614543462EB9B2E08365366338786.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[05-Aug-2022 07:50:45 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EB9B2C5C24244155578562EB9B2C5C261059682757.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[05-Aug-2022 07:50:45 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EB9B2DAACE141943653662EB9B2DAAD06904521729.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[05-Aug-2022 07:50:45 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EB9B2E0830B18614543462EB9B2E08365366338786.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 16:32:28 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EE8971AB63E67068630762EE8971AB64D573849534.mp4): Permission denied in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 16:32:28 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EE89791325990342597762EE89791326D990179980.mp4): Permission denied in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 16:32:57 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EE8971AB63E67068630762EE8971AB64D573849534.mp4): Permission denied in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 16:32:57 Africa/Lagos] PHP Warning:  unlink(uploads/MJ_VID_62EE89791325990342597762EE89791326D990179980.mp4): Permission denied in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 16:49:03 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EE8D4C263CA19708710562EE8D4C26420962440700.mp4): Permission denied in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 16:49:03 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EE8D512998149261438462EE8D5129996512331469.mp4): Permission denied in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 16:49:03 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EE8D517F45230531417362EE8D517F464096552511.mp4): Permission denied in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 146
+[06-Aug-2022 18:08:48 Africa/Lagos] PHP Warning:  unlink(/journal/uploads/MJ_VID_62EE8D4C263CA19708710562EE8D4C26420962440700.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:08:48 Africa/Lagos] PHP Warning:  unlink(/journal/uploads/MJ_VID_62EE8D512998149261438462EE8D5129996512331469.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:08:48 Africa/Lagos] PHP Warning:  unlink(/journal/uploads/MJ_VID_62EE8D517F45230531417362EE8D517F464096552511.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:09:52 Africa/Lagos] PHP Warning:  unlink(\journal\uploads\MJ_VID_62EE8D4C263CA19708710562EE8D4C26420962440700.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:09:52 Africa/Lagos] PHP Warning:  unlink(\journal\uploads\MJ_VID_62EE8D512998149261438462EE8D5129996512331469.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:09:52 Africa/Lagos] PHP Warning:  unlink(\journal\uploads\MJ_VID_62EE8D517F45230531417362EE8D517F464096552511.mp4): No such file or directory in C:\xampp\htdocs\Lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:10:39 Africa/Lagos] PHP Warning:  unlink(/lifelog/uploads/MJ_VID_62EE8D4C263CA19708710562EE8D4C26420962440700.mp4): No such file or directory in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:10:39 Africa/Lagos] PHP Warning:  unlink(/lifelog/uploads/MJ_VID_62EE8D512998149261438462EE8D5129996512331469.mp4): No such file or directory in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:10:39 Africa/Lagos] PHP Warning:  unlink(/lifelog/uploads/MJ_VID_62EE8D517F45230531417362EE8D517F464096552511.mp4): No such file or directory in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:15:33 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EEA1A5EDEC787826789962EEA1A5EDEDC736303584.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:15:33 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EEA1A655D1237373689262EEA1A655D31984380838.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:28:08 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EEA498E50E024565822162EEA498E50FA888394993.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:28:08 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EEA4999657514996161162EEA49996591821393903.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[06-Aug-2022 18:28:08 Africa/Lagos] PHP Warning:  unlink(./uploads/MJ_VID_62EEA49AACAF023917028962EEA49AACB04663932869.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 152
+[07-Aug-2022 02:19:33 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EEA498E50E024565822162EEA498E50FA888394993.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 02:19:33 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EEA4999657514996161162EEA49996591821393903.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 02:19:33 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EEA49AACAF023917028962EEA49AACB04663932869.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 02:27:46 Africa/Lagos] PHP Notice:  Undefined variable: file in C:\xampp\htdocs\lifelog\edit_event_script.php on line 144
+[07-Aug-2022 02:27:46 Africa/Lagos] PHP Notice:  Undefined variable: file in C:\xampp\htdocs\lifelog\edit_event_script.php on line 144
+[07-Aug-2022 02:27:46 Africa/Lagos] PHP Notice:  Undefined variable: file in C:\xampp\htdocs\lifelog\edit_event_script.php on line 144
+[07-Aug-2022 02:29:18 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF155DE1A8C01330827862EF155DE1AA5478993236.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:30:11 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF155DE1A8C01330827862EF155DE1AA5478993236.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:30:57 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF155DE1A8C01330827862EF155DE1AA5478993236.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:32:40 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF155DE1A8C01330827862EF155DE1AA5478993236.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:54:11 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1B325F21D26216245362EF1B325F232249464040.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:54:11 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1B34D51A160042624462EF1B34D51B8558159017.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:57:59 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C16E67BC51869455362EF1C16E67D5827565869.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:57:59 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C17E8F4E69228372162EF1C17E8F6D998126751.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:57:59 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C191DC0624314577762EF1C191DC42467778931.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:59:04 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C16E67BC51869455362EF1C16E67D5827565869.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:59:04 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C17E8F4E69228372162EF1C17E8F6D998126751.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:59:04 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C191DC0624314577762EF1C191DC42467778931.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:59:35 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 02:59:35 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C16E67BC51869455362EF1C16E67D5827565869.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:59:35 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 02:59:35 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C17E8F4E69228372162EF1C17E8F6D998126751.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 02:59:35 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 02:59:35 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1C191DC0624314577762EF1C191DC42467778931.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 03:10:22 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 03:10:22 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 03:10:22 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 03:11:04 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 03:11:04 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1F2A8F2C717232196462EF1F2A8F2F1420252875.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 03:11:04 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[07-Aug-2022 03:11:04 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1F2B1502A39602566862EF1F2B15045750933100.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[07-Aug-2022 03:11:04 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[09-Aug-2022 06:54:49 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[09-Aug-2022 06:54:49 Africa/Lagos] PHP Warning:  unlink(media/MJ_VID_62EF1F2A8F2C717232196462EF1F2A8F2F1420252875.mp4): Permission denied in C:\xampp\htdocs\lifelog\edit_event_script.php on line 147
+[09-Aug-2022 06:54:49 Africa/Lagos] PHP Warning:  Use of undefined constant daemon - assumed 'daemon' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\lifelog\edit_event_script.php on line 146
+[09-Aug-2022 08:09:59 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\edit_event_script.php on line 262
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\session.php on line 7
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[09-Aug-2022 08:10:00 Africa/Lagos] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\lifelog\upload_prog_script.php on line 8
+[16-Aug-2022 12:16:49 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\lifelog\connection.php on line 11
+[20-Aug-2022 16:10:46 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\lifelog\connection.php on line 11
+[03-Sep-2022 15:58:23 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lifelog\home.php:83
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lifelog\home.php on line 83
+[04-Dec-2022 18:21:57 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lifelog\home.php:83
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lifelog\home.php on line 83
